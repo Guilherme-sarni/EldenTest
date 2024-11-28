@@ -1,0 +1,71 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+ 
+# Auto-generated VS/VSCode project files
+ExportedObj/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+ 
+# Unity crash reports
+sysinfo.txt
+ 
+# Files created by the Unity editor
+*.pidb.meta
+*.pidb
+*.unitypackage
+*.asset
+*.asset.meta
+*.unity.meta
+ 
+# Built application files
+*.apk
+*.aab
+*.exe
+*.app
+*.dmg
+*.iso
+*.ipa
+*.msi
+*.manifest
+*.data
+*.dat
+*.dll
+*.pdb
+ 
+# Configuration files
+*.config
+*.prefs
+ 
+# Hidden system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ 
+# JetBrains Rider project files
+.idea/
+ 
+# Visual Studio Code workspace settings
+.vscode/settings.json
+ 
+# macOS system files
+._*
+.Spotlight-V100
+.Trashes
