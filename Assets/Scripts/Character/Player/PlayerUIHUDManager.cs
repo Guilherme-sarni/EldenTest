@@ -10,7 +10,7 @@ namespace SG
         [SerializeField] UI_StatBar healthBar;
         public void SetMaxHealthValue(float oldvalue, float newValues)
         {
-            healthBar.SetStat(Mathf.RoundToInt(newValues));
+          //  healthBar.SetStat(Mathf.RoundToInt(newValues));
         }
 
 

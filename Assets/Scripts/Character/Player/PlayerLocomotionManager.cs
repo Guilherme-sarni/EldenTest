@@ -150,7 +150,7 @@ namespace SG
             }
             else
             {
-                player.playerAnimatorManeger.PlayTargetActionAnimation("Back_Step_01",true,true)
+             //   player.playerAnimatorManeger.PlayTargetActionAnimation("Back_Step_01", true, true);
             }
             player.playerNetworkManager.currentStamina.Value -= dodgeStaminaCost;
         }
