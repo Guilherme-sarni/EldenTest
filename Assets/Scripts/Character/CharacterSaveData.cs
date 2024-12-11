@@ -9,7 +9,7 @@ namespace SG
     {
         
             [Header("character Name")]
-            public string CharacterName;
+            public string characterName;
             [Header("Time Played")]
             public float secondsPlayed;
 
